@@ -112,7 +112,7 @@ a.pure-button-primary {
 }
 
 .home-menu .pure-menu-selected a {
-    color: white;
+    color: rgb(255, 196, 0);
 }
 
 .home-menu a {
